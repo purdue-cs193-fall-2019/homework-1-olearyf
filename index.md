@@ -5,5 +5,6 @@
 - There is no textbook!
 - It doesn't meet that often!
 - I get to use my iClicker!
+- I get to learn everything my CS classes glossed over!
 
 ![alt text](https://media0.giphy.com/media/ToMjGpJY5rFWRfZZl9S/giphy.gif)
